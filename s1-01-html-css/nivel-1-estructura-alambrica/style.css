@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color:violet;
+    background-color: violet;
     padding: 30px;
     margin-bottom: 20px;
     display: flex;
@@ -19,8 +19,10 @@ header {
     gap: 20px;
 }
 
-.logo, nav, .social {
-    background-color:lightcyan;
+.logo,
+nav,
+.social {
+    background-color: lightcyan;
     width: 100%;
     /* Ocupa todo el ancho del header */
     padding: 25px;
@@ -35,7 +37,7 @@ header {
 }
 
 .banner-content {
-    background-color:lightcoral;
+    background-color: lightcoral;
     padding: 40px 30px;
 }
 
@@ -82,17 +84,17 @@ aside {
 }
 
 .publicidad {
-    background-color:lightsalmon;
+    background-color: lightsalmon;
     padding: 30px
 }
 
 footer {
-    background-color:cadetblue;
+    background-color: cadetblue;
     padding: 30px;
 }
 
 .pie-content {
-    background-color:darkkhaki;
+    background-color: darkkhaki;
     padding: 40px 30px;
 }
 
@@ -103,11 +105,14 @@ footer {
         align-items: center;
     }
 
-    .logo, nav, .social {
+    .logo,
+    nav,
+    .social {
         width: auto;
     }
 
-    .logo, .social {
+    .logo,
+    .social {
         flex: 0 1 auto;
     }
 

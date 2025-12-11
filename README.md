@@ -1,19 +1,10 @@
-IT Academy bootcamp FullStack PHP
-
-**Descripción**: Este es mi camino persona hacia el desarrollo de codigo 
-
+# Sprint 1
+  **Descripción**: Repositorio Tasca S1.01 HTML y CSS
+  
   ## 🛠 Tecnologías  
-  - Frontend: HTML, CSS 
-
+  - HTML
+  - CSS
+  
   ## 🚀 Instalación  
   1. Clonar el repositorio: `git clone ...`  
-  2. Modificar README
-  3. Comenzar a trabajar 
-  
-  ## 📸 Demostración  
-  TBA 
-
->>> ⌞ Mal Mentaµ ⌝
-
-# mi-primer-repo
-part of my journey through coding
+  2. Ejecuta los ficheros
